@@ -1,2 +1,2 @@
-#git solo tutorial
+#Git Solo Tutorial
 Lauren Kim
